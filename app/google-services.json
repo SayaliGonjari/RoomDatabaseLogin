@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320837659638",
+    "project_id": "dbroom-e52e4",
+    "storage_bucket": "dbroom-e52e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320837659638:android:3b63dd4269dde242eb75d7",
+        "android_client_info": {
+          "package_name": "com.project.roomdblogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320837659638-84fi9i2m5afd0aa7c2ndlf1m4ekd97rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZSh04vldq_Ml3NFcV4mfTgCc-IYGV8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320837659638-84fi9i2m5afd0aa7c2ndlf1m4ekd97rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
